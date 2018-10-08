@@ -1,0 +1,7 @@
+MovieRecommenderSystem.iml
+build.sh
+pom.xml
+*.class
+*.jar
+.idea/
+input/
